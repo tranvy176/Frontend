@@ -1,0 +1,133 @@
+#header{
+	background:#fb945c;
+	height:83px;
+}
+
+#header .container .col-sm-6 #header_logo{
+    width:327px;
+    height: 58px;
+}
+
+#header .container .col-sm-6 #header_logo img{
+	margin-top: 22px;
+}
+
+#header .container .col-sm-2 #hotline{
+    color: #F70925;
+    font-family: "Times New Roman";
+    font-size: 14px;
+    margin-top: 52px;
+}
+#header .container .col-sm-2 #hotline button{
+    color: #F70925;
+    size: 14px;
+    border: none;
+    background: #fb945c;
+}
+#header .container .col-sm-2 #sign_in{
+    margin-top: 10px;
+    font-family: "Times New Roman";
+    font-size: 14px;
+    color: #F70925;
+}
+
+#header .container .col-sm-2 #sign_in button{
+    color: #f70925;
+    size: 14px;
+    background: #fb945c;
+    border: none;
+}
+
+#header .container .col-sm-2 #cart{
+    font-family: "Times New Roman";
+    font-size: 14px;
+    color: #F70925;
+    margin-top: 52px;
+}
+
+#header .container .col-sm-2 #cart button{
+    color: #F70925;
+    size: 12px;
+    border: none;
+    background: #fb945c;
+}
+
+#header .container .col-sm-2 #form_search{
+    margin-right: 0px;
+    position: relative;
+}
+#header .container .col-sm-2 #form_search input{
+    font-family: "Times New Roman";
+    border: 1px solid #f70925;
+    background: #f3edea;
+    height: 30px;
+    width: 195px;
+    margin-top: 0.4px;
+}
+
+#header .container .col-sm-2 #form_search  button {
+    height: 28px;
+    width: 25px;
+    border: none;
+    left: 168px;
+    top: 1.5px;
+    position: absolute;
+    color: #f70925;
+    background: #f3edea;
+}
+
+
+#banner {
+    height: 280px;
+    background: #f5ddd3;
+}
+
+#banner .container .col-sm-4 #banner1 img{
+    height: 280px;
+    width: 390px;
+}
+
+#banner .container .col-sm-4 #banner2 img{
+    height: 280px;
+    width: 390px;
+}
+
+#banner .container .col-sm-4 #banner3 img{
+    height: 280px;
+    width: 390px;
+}
+
+
+#menu {
+    height: 54px;
+    background: #fb945c;
+}
+#menu .container .btn-group-justified {
+    width: 1170px;
+}
+
+#menu .btn-group button{
+    height: 54px;
+    font-family: "Times New Roman";
+    font-size: 14px;
+    color: #f3edea;
+    background: #fb945c;
+    border: none;
+}
+
+#menu .dropdown-menu{
+    background: #f5ddd3;
+    font-family: "Times New Roman";
+    font-size: 14px;
+    color: #f3edea;
+}
+
+
+ .sub-menu {
+     position: relative;
+ }
+.sub-menu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+}
